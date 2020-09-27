@@ -8,21 +8,21 @@ The purpose of this project was to create a webpage with a dynamic table that al
 
 To better understand how the updated webpage works, below are few examples on the responsiveness of the table to our new filters:
 
-Upon loading the webpage, the user will be presented with a non-filtered version of the table displaying all UFO sightings based on our "data.js" file.
+Upon loading the webpage, the user will be presented with a non-filtered version of the table displaying all UFO sightings based on our "data.js" file:
 
-![]()
+![](https://github.com/josem279/UFOs/blob/master/Screenshots/Unfiltered%20table.PNG)
 
 To filter the data in our table based on one input we would simply choose one input and type in the input box:
 
-![]()
+![](https://github.com/josem279/UFOs/blob/master/Screenshots/FilteredTable1.PNG)
 
 If our initial filter does not filter out enough rows from our table, we can apply another filter to further narrow our search. Again, this is done by entering valid text into the desired input box:
 
-![]()
+![](https://github.com/josem279/UFOs/blob/master/Screenshots/FilteredTable2.PNG)
 
 Assuming that we have entered sufficient info into our input boxes and have found the UFO sighting that we wanted, we can restart the process by either clearing the text in our input boxes or by clicking the link to the webpage at the top left. Both options result in an unfiltered data table:
 
-![]()
+![](https://github.com/josem279/UFOs/blob/master/Screenshots/ResetTable.PNG)
 
 ## Summary
 
